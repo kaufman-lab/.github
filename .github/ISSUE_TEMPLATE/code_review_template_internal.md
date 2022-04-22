@@ -4,6 +4,10 @@ about: Use this template when requesting a Code Review for Internal Code
 title: "[DATE]: Code Review"
 ---
 
+## Package Review
+
+*Please check off boxes as applicable, and elaborate in comments below. Both author and reviewer may edit this form.* 
+
 #### Justifications
 - [ ] **Privacy** Reviewer and author has agreed that this tool should not be published as open source 
 - [ ] **Languages other than R** (if applicable) The author and reviewer agree that there is a compelling case to write this code in a language other than R. 
