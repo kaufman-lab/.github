@@ -1,6 +1,6 @@
 ---
-name: Code Review Issue
-about: Use this template when requesting a Code Review
+name: Internal Code Review Issue
+about: Use this template when requesting a Code Review for Internal Code
 title: "[DATE]: Code Review"
 ---
 
