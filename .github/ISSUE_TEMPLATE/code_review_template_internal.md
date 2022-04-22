@@ -13,6 +13,7 @@ See the EAC Developer's Guide section on code review [here](https://kaufman-lab.
 #### Justifications
 - [ ] **Privacy** Reviewer and author has agreed that this tool should not be published as open source 
 - [ ] **Languages other than R** (if applicable) The author and reviewer agree that there is a compelling case to write this code in a language other than R. 
+- [ ] **Dependencies** (if applicable) The author and reviewer agree that any non-standard dependencies are necessary and that their usage is documented in the code and/or README/Vignettes. 
 
 #### Documentation
 
