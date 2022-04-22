@@ -8,6 +8,8 @@ title: "[DATE]: Code Review"
 
 *Please check off boxes as applicable, and elaborate in comments below. Both author and reviewer may edit this form.* 
 
+See the EAC Developer's Guide section on code review [here](https://kaufman-lab.github.io/eac-devguide/reviewing-code-and-tickets.html#package-review---open-source-tools).
+
 #### Justifications
 - [ ] **Privacy** Reviewer and author has agreed that this tool should not be published as open source 
 - [ ] **Languages other than R** (if applicable) The author and reviewer agree that there is a compelling case to write this code in a language other than R. 
