@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: 🐛 Bug Report
 about: Use this template when pointing out a bug. 
 title: "Bug:"
 ---
