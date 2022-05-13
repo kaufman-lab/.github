@@ -1,8 +1,10 @@
 ---
-name: Internal Code Review Issue
+name: 🔎 Internal Code Review Issue
 about: Use this template when requesting a Code Review for Internal Code
 title: "[DATE]: Code Review"
 ---
+
+<!-- Congratulations on reaching this stage of your project!!! --> 
 
 ## Package Review
 
