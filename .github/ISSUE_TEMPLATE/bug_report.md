@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Use this template when pointing out a bug. 
-title: "[DATE]: Code Review"
+title: "Bug:"
 ---
 <!--- Provide a general summary of the issue in the Title above -->
 
