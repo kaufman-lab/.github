@@ -1,5 +1,5 @@
 ---
-name: External Code Review Issue
+name: 🔍 External Code Review Issue
 about: Use this template when requesting a Code Review for Open Source Code
 title: "[DATE]: Code Review"
 ---
